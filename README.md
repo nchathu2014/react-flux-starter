@@ -2,8 +2,8 @@
 Flux architecture starter-kit
 
 #Run the Kit
--npm install
--bower install
--npm start
+- npm install
+- bower install
+- npm start
 
 
